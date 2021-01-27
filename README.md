@@ -1,4 +1,4 @@
-![head.png] (https://cdn.discordapp.com/attachments/801973613758119976/804018593884405800/system.gif)
+![head.png](https://cdn.discordapp.com/attachments/801973613758119976/804018593884405800/system.gif)
 
 
 ─────────────────────────────────────────────────────────────
