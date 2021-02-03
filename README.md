@@ -3,8 +3,9 @@
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=R4y4n-4&show_icons=true&theme=jolly&count_private=true"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=jolly&count_private=true"/>
+
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=R4y4n-4&show_icons=true&theme=radical"/>
 Hi to you ! , Thank you for seeing my github do not hesitate to read the entire description | discord.gg/punchnox | discord.gg/silent-x 
 
