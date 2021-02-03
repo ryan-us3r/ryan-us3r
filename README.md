@@ -1,7 +1,7 @@
 ![head.gif](https://cdn.discordapp.com/attachments/786132731817099297/798620165142085633/gif_arka.gif)
 
 
-─────────────────────────────────────────────────────────────
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 Hi to you ! , Thank you for seeing my github do not hesitate to read the entire description | discord.gg/punchnox | discord.gg/silent-x 
 
