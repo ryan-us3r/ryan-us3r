@@ -3,10 +3,9 @@
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-
-
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=R4y4n-4&show_icons=true&theme=radical"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=R4y4n-4&theme=radical"/>
+
 Hi to you ! , Thank you for seeing my github do not hesitate to read the entire description | discord.gg/punchnox | discord.gg/silent-x 
 
 
