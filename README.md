@@ -3,9 +3,9 @@
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=NotPunchnox&show_icons=true&theme=jolly&count_private=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=RYN&show_icons=true&theme=jolly&count_private=true"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RYN&layout=compact&theme=jolly&count_private=true"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=NotPunchnox&theme=jolly"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=RYN&theme=jolly"/>
 
 Hi to you ! , Thank you for seeing my github do not hesitate to read the entire description | discord.gg/punchnox | discord.gg/silent-x 
 
