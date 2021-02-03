@@ -5,7 +5,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=R4y4n-4&show_icons=true&theme=radical"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4y4n-4&langs_count=8&theme=radical"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=R4y4n-4&theme=radical"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=R4y4n-4&theme=radical"/>(https://github.com/R4y4n-4/github-R4y4n-4-stats)
+
 Hi to you ! , Thank you for seeing my github do not hesitate to read the entire description | discord.gg/punchnox | discord.gg/silent-x 
 
 
