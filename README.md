@@ -1,7 +1,7 @@
 ![head.png](https://cdn.discordapp.com/attachments/801973613758119976/806520705234501632/tenor_5.gif)
 
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 Hi to you ! , Thank you for seeing my github do not hesitate to read the entire description | discord.gg/punchnox | discord.gg/silent-x 
 
