@@ -3,7 +3,7 @@
 
 ─────────────────────────────────────────────────────────────
 
-Hi to you ! , Thank you for seeing my github do not hesitate to read the entire description | discord.gg/dream | discord.gg/silent-x 
+Hi to you ! , Thank you for seeing my github do not hesitate to read the entire description | discord.gg/punchnox | discord.gg/silent-x 
 
 
 
