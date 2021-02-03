@@ -1,4 +1,4 @@
-![head.png](https://cdn.discordapp.com/attachments/801973613758119976/806520705234501632/tenor_5.gif)
+![head.png](https://cdn.discordapp.com/banners/805416845037273098/9b39b0ec35ca3dd180c0667a2c255e3a.png?size=4096)
 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
