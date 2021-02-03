@@ -1,4 +1,4 @@
-![head.png](https://cdn.discordapp.com/attachments/801973613758119976/806513304649597008/unknown.png)
+![head.png](https://cdn.discordapp.com/attachments/786132731817099297/798620165142085633/gif_arka.gif)
 
 
 ─────────────────────────────────────────────────────────────
