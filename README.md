@@ -1,5 +1,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=R4y4n-4&show_icons=true&theme=radical"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4y4n-4&langs_count=8&theme=radical"/>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Upload&theme=radical"/>
 
 ---
