@@ -12,4 +12,10 @@
 
 🔕》From [@ryn](https://github.com/R4y4n-4)
 
+---
+
+<p align="center"> 
+  <br>Nombre de vues: <br>
+  <img src="https://profile-counter.glitch.me/NotPunchnox/count.svg" />
+</p>
 
