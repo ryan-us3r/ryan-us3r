@@ -17,5 +17,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/R4y4n-4/count.svg&theme=radical" />
+  <img src="https://profile-counter.glitch.me/R4y4n-4/count.svg" />
 </p>
