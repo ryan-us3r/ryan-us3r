@@ -3,7 +3,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Upload&theme=radical"/>
 
 <p align="center">
-─────────────────────────────────────
+──────────────────────────────
 </p>
 
 # 🔕》Programming languages : 
