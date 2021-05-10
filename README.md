@@ -1,11 +1,12 @@
-### Hi there, I'm [ryn-user!](https://ryn-user.github.io) 👋
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ryn-user&show_icons=true&theme=outrun"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Upload&theme=outrun"/>
 
 <p align="center">
 ──────────────────
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ryn-user&show_icons=true&theme=outrun"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Upload&theme=outrun"/>
+### Hi there, I'm [ryn-user!](https://ryn-user.github.io) 👋
 
 <p align="center">
 ──────────────────
