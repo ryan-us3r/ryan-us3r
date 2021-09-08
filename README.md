@@ -1,6 +1,6 @@
 
 <h1><img src="https://cdn.discordapp.com/emojis/853981345305722880.gif" width="35"/> Hi there, I'm ryan_thl</h1>
-
+---
 <img align="right" alt="ryanthl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ryanthl&show_icons=true&hide_border=true" />
 
 <p align="center">
