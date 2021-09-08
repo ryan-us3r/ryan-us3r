@@ -30,6 +30,6 @@
 
 <p align="center"> 
   <br>Nombre de vues: <br>
-  <img src="https://profile-counter.glitch.me/R4y4n_/count.svg" />
+  <img src="https://profile-counter.glitch.me/Notpunchnox/count.svg" />
 </p>
 
