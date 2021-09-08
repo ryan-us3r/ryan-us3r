@@ -1,13 +1,13 @@
 
 <h1><img src="https://cdn.discordapp.com/emojis/853981345305722880.gif" width="35"/> Hi there, I'm ryan_thl</h1>
----
-<img align="right" alt="ryanthl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ryanthl&show_icons=true&hide_border=true" />
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-1/458573132220071937.png">
 </p><br/><br/><br/>
 
 ---
+
+<img align="right" alt="ryanthl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ryanthl&show_icons=true&hide_border=true" />
 
 ## 🌍 Programming languages:
 <p>
@@ -26,7 +26,8 @@
 
 ---
 
-> 🔕》From [@ryn](https://github.com/ryn-user)
+
+> 🔕》From [@ryan](https://github.com/ryanthl)
 
 <p align="center"> 
   <br>Nombre de vues: <br>
