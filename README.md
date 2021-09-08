@@ -4,7 +4,7 @@
 <img align="right" alt="ryanthl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ryanthl&show_icons=true&hide_border=true" />
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/857306843574173756.png">
+  <img src="https://discord.c99.nl/widget/theme-5/458573132220071937.png">
 </p><br/><br/><br/>
 
 ---
