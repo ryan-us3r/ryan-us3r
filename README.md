@@ -27,7 +27,7 @@
 ---
 
 
-> 🔕》From [@ryan](https://github.com/ryanthl)
+> 🔕》Realized by [@FreiikDev](https://github.com/FreiikDev), modified by [@ryan](https://github.com/ryanthl)
 
 <p align="center"> 
   <br>Nombre de vues: <br>
